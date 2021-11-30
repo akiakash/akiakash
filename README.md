@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Danushan99.Kobigan1223)
 
 </div>
- Hi there, I'm Dhanu 👋
+ Hi there, I'm Akash 👋
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dhanuthasan)](https://twitter.com/dhanuthasan)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akash.___/?hl=en)](https://www.instagram.com/akash.___/?hl=en)
