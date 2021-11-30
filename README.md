@@ -7,19 +7,16 @@
  Hi there, I'm Dhanu 👋
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dhanuthasan)](https://twitter.com/dhanuthasan)
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dhanu_thazan/?hl=en)](https://www.instagram.com/dhanu_thazan/?hl=en)
-[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https:)]()
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danushan-ravendran-337049204/)](https://www.linkedin.com/in/danushan-ravendran-337049204/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14372248/dhanu)](https://stackoverflow.com/users/14372248/dhanu)
-[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=http:www.danushan.me/)](http:www.danushan.me/)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akash.___/?hl=en)](https://www.instagram.com/akash.___/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/aki.agash/)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agash-varatharasa-0892401bb/)](https://www.linkedin.com/in/agash-varatharasa-0892401bb/)
+
 
 <p >
-  <img src = "https://github-readme-stats.vercel.app/api?username=Danushan99&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
+  <img src = "https://github-readme-stats.vercel.app/api?username=akiakash&show_icons=true&theme=react&hide=issues,stars&count_private=true&include_all_commits=true_height=30">
 </p>
 
-<a href="https://www.danushan.me/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Danushan99&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21 &theme=react&" />
-  
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushan99&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react&" /></a>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiakash&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react&" /></a>
 
 
 
