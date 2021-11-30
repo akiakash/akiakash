@@ -6,7 +6,7 @@
 </div>
  Hi there, I'm Akash 👋
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dhanuthasan)](https://twitter.com/dhanuthasan)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/imadeveloper_)](https://twitter.com/imadeveloper_)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akash.___/?hl=en)](https://www.instagram.com/akash.___/?hl=en)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/aki.agash/)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agash-varatharasa-0892401bb/)](https://www.linkedin.com/in/agash-varatharasa-0892401bb/)
